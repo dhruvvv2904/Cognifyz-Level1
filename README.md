@@ -45,15 +45,3 @@ Level 1 tasks completed during Data Analyst Internship at Cognifyz Technologies
 - Understanding **real-world datasets** and deriving actionable insights  
 - Experience with **Python-based data analysis projects**  
 
----
-
-## 📌 Notes
-- All tasks were completed as part of **Level 1 of the internship**.  
-- Dataset is included for reference (if allowed).  
-
----
-
-## 🔗 LinkedIn Video Walkthrough
-You can watch a short video walkthrough of this project here:  
-[LinkedIn Video Link](#)  
-*(Replace with your LinkedIn post URL)*
